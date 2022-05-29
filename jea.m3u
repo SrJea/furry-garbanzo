@@ -1,16 +1,8 @@
 #EXTINF
-#EXTINF:-1 iso-id="ES" tvg-logo="https://i.imgur.com/i859wPs.png" group-title"Futbol",LA LIGA TV
+#EXTINF:-1 iso-id="ES" tvg-logo="https://i.imgur.com/i859wPs.png" ,LA LIGA TV
 XmoUNb2=|CVqs`$VPs`+Z*p{Hb1q|VZ7*YCZeeU?b1!URY-wj<E^ugYAaG%Fb7fU>Y&|j
-
-#EXTINF:0 tvg-id="ext" group-title="Basket",NBA_TV
-http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
-
-#EXTINF:-1,Star Wars Episodio I
-H:\PELICULAS\STAR WARS\Star Wars Episode I The Phantom Menace (1999).mkv
 
 #EXTINF:-1,A HBO
 http://ott-cdn.ucom.am/s64/index.m3u8
 
-#EXTINF:-1,AD Sports 2 HD
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 
