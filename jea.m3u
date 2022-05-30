@@ -1,4 +1,6 @@
 #EXTINF
+
+#EXTINF:- ,JEA TV,BEST IPTV CHANEL
 #EXTINF:-1 iso-id="ES" tvg-logo="https://i.imgur.com/i859wPs.png" ,LA LIGA TV
 XmoUNb2=|CVqs`$VPs`+Z*p{Hb1q|VZ7*YCZeeU?b1!URY-wj<E^ugYAaG%Fb7fU>Y&|j
 
@@ -16,3 +18,8 @@ https://comedydynamics-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MyTimemovienetworkSpain.us" status="online",MyTime movie network Spain (1080p)
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/63s1k43.png" group-title="Lo Mas Visto", Portal FoxMix | HD
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8?PlaylistM3UCL
+
