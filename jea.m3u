@@ -1,6 +1,6 @@
 #EXTINF
 
-#EXTINF:- ,JEA TV,BEST IPTV CHANELhttps://sites.google.com/view/jeacraft/inicio
+#EXTINF:- , JEA TV BEST IPTV CHANEL
 https://sites.google.com/view/jeacraft/inicio
 
 #EXTINF:-1 iso-id="ES" tvg-logo="https://i.imgur.com/i859wPs.png" ,LA LIGA TV
@@ -24,7 +24,12 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/63s1k43.png" group-title="Lo Mas Visto", Portal FoxMix | HD
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xAsLsmQ.png" group-title="Lo Mas Visto", Adult Swim: Williams Stream | FHD
-https://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_7.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Lo Mas Visto", Locomotion | SD
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8e2460502f204b225c89d644e88153a8.webp" group-title="Lo Mas Visto", Anime TV | SD
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+https://stmv1.srvif.com/animetv/animetv/chunklist_w1769730028.m3u8
 
 
