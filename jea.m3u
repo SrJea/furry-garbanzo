@@ -2,7 +2,11 @@
 #EXTINF:-1 iso-id="ES" tvg-logo="https://i.imgur.com/i859wPs.png" ,LA LIGA TV
 XmoUNb2=|CVqs`$VPs`+Z*p{Hb1q|VZ7*YCZeeU?b1!URY-wj<E^ugYAaG%Fb7fU>Y&|j
 
-#EXTINF:-1 iso-id="ES" tvg-logo="https://imgur.com/gallery/W3MncxH" ,HBO
+#EXTINF:-1 iso-id="ING" tvg-logo="https://i.imgur.com/qSY4IKG.jpeg" ,HBO
 http://ott-cdn.ucom.am/s64/index.m3u8
 
+#EXTINF:-1, iso-id="ES" tvg-logo="https://ideakreativa.net/wp-content/uploads/2019/04/discover-nuevo-logo.jpg" ,Discovery Channel
+http://80.80.160.168/live/8/live.m3u8
 
+#EXTINF:-1, iso-id="ES" tvg-logo="https://davinci.zappingtv.com/gato/media/450/canales/white/cdo.png" ,CDO DEPORTES ESPANA
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w1477672342.m3u8
