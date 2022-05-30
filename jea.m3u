@@ -11,5 +11,5 @@ http://80.80.160.168/live/8/live.m3u8
 #EXTINF:-1, iso-id="ES" tvg-logo="https://davinci.zappingtv.com/gato/media/450/canales/white/cdo.png" ,CDO DEPORTES ESPANA
 http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w1477672342.m3u8
 
-#EXTINF:-1 tvg-id="Esport3.es" status="online",Esport3 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Esport3.es" tvg-logo="https://img.ccma.cat/multimedia/jpg/0/3/1630912974030.jpg" status="online",Esport3 (1080p) [Not 24/7]
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
