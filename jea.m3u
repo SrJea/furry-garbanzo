@@ -1,6 +1,6 @@
 #EXTINF
 
-#EXTINF:- , JEA TV BEST IPTV CHANEL
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/36771630/38227/v/450/depositphotos_382278796-stock-illustration-assassin-warrior-mascot-logo-gaming.jpg",JEA TV|BEST IPTV CHANEL
 https://sites.google.com/view/jeacraft/inicio
 
 #EXTINF:-1 iso-id="ES" tvg-logo="https://i.imgur.com/i859wPs.png" ,LA LIGA TV
@@ -26,6 +26,14 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8e2460502f204b225c89d644e88153a8.webp" group-title="Lo Mas Visto", Anime TV | SD
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-https://stmv1.srvif.com/animetv/animetv/chunklist_w1769730028.m3u8
+
+#EXTINF:-1 tvg-id="Antena 3" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/320px-Antena_3_%282017%29.svg.png" group-title="",Antena 3
+https://livestartover-i.akamaized.net/antena3/master.m3u8
+
+#EXTINF:-1 tvg-id="Cuatro ES" tvg-name="Cuatro ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/09qP7mv.png" group-title="General",Cuatro
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8
+
+#EXTINF:-1 tvg-id="FDF ES" tvg-name="FDF ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4HjQT6E.png" group-title="",FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_3.m3u8
 
 
