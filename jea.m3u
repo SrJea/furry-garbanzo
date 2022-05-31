@@ -27,8 +27,5 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8e2460502f204b225c89d644e88153a8.webp" group-title="Lo Mas Visto", Anime TV | SD
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
-#EXTINF:-1 xui-id="48544" tvg-id="GOLTVLE" tvg-name="|ES| GOL TV" tvg-logo="http://protocol.solanaflix.com:8080/images/865cc3da0b037e87c67e8d7c19ba2b1c.png" group-title="ESPANA -  FUTBOL",|ES| GOL TV
-http://tvdevv.club:8080/play/-svkokpsUOHQ_7WRZHZUrQY-5Z4H1lq4FXzABfB04XSa2KDde0Rw5D9Xyiu2umAU
-
-#EXTINF:-1 xui-id="56222" tvg-id="MOLIGA" tvg-name="|ES| MOVISTAR LA LIGA FHD" tvg-logo="" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA FHD
+#EXTINF:-1 xui-id="56222" tvg-id="MOLIGA" tvg-name="|ES| MOVISTAR LA LIGA FHD" tvg-logo="http://marcaporhombro.com/wp-content/uploads/2016/12/movistar-2010-620x362.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA FHD
 http://tvdevv.club:8080/play/-svkokpsUOHQ_7WRZHZUrUWqVKnc58LBm_pI8UupUDo7zVjW8qlFzxAsbvYSs0y8
