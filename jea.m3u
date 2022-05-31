@@ -1,6 +1,6 @@
 #EXTINF
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/36771630/38227/v/450/depositphotos_382278796-stock-illustration-assassin-warrior-mascot-logo-gaming.jpg",JEA TV|BEST IPTV CHANEL
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/36771630/38227/v/450/depositphotos_382278796-stock-illustration-assassin-warrior-mascot-logo-gaming.jpg" ,JEA TV|BEST IPTV CHANEL
 https://sites.google.com/view/jeacraft/inicio
 
 #EXTINF:-1 iso-id="ES" tvg-logo="https://i.imgur.com/i859wPs.png" ,LA LIGA TV
@@ -27,8 +27,8 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8e2460502f204b225c89d644e88153a8.webp" group-title="Lo Mas Visto", Anime TV | SD
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg/200px-Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg.png",PLAYLIST ESPAÑA
-https://raw.githubusercontent.com/iptv-restream/iptv-channels/master/channels/es.m3u
+#EXTINF:-1 xui-id="48544" tvg-id="GOLTVLE" tvg-name="|ES| GOL TV" tvg-logo="http://protocol.solanaflix.com:8080/images/865cc3da0b037e87c67e8d7c19ba2b1c.png" group-title="ESPANA -  FUTBOL",|ES| GOL TV
+http://tvdevv.club:8080/play/-svkokpsUOHQ_7WRZHZUrQY-5Z4H1lq4FXzABfB04XSa2KDde0Rw5D9Xyiu2umAU
 
-#EXTINF:-1 tvg-id="tv.redbull.tv" tvg-logo="http://iptv.matthuisman.nz/nz/images/tv.redbull.tv.png",Redbull TV
-http://i.mjh.nz/nz/tv.redbull.tv.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+#EXTINF:-1 xui-id="56222" tvg-id="MOLIGA" tvg-name="|ES| MOVISTAR LA LIGA FHD" tvg-logo="" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA FHD
+http://tvdevv.club:8080/play/-svkokpsUOHQ_7WRZHZUrUWqVKnc58LBm_pI8UupUDo7zVjW8qlFzxAsbvYSs0y8
