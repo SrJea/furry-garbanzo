@@ -27,13 +27,8 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8e2460502f204b225c89d644e88153a8.webp" group-title="Lo Mas Visto", Anime TV | SD
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Antena 3" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/320px-Antena_3_%282017%29.svg.png" group-title="",Antena 3
-https://livestartover-i.akamaized.net/antena3/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg/200px-Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg.png",PLAYLIST ESPAÑA
+https://raw.githubusercontent.com/iptv-restream/iptv-channels/master/channels/es.m3u
 
-#EXTINF:-1 tvg-id="Cuatro ES" tvg-name="Cuatro ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/09qP7mv.png" group-title="General",Cuatro
-https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8
-
-#EXTINF:-1 tvg-id="FDF ES" tvg-name="FDF ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4HjQT6E.png" group-title="",FDF
-https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_3.m3u8
-
-
+#EXTINF:-1 tvg-id="tv.redbull.tv" tvg-logo="http://iptv.matthuisman.nz/nz/images/tv.redbull.tv.png",Redbull TV
+http://i.mjh.nz/nz/tv.redbull.tv.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
