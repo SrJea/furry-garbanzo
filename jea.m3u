@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/36771630/38227/v/450/depositphotos_382278796-stock-illustration-assassin-warrior-mascot-logo-gaming.jpg" ,JEA TV|BEST IPTV CHANEL
 https://sites.google.com/view/jeacraft/inicio
 
-#EXTINF:-1 iso-id="ES" tvg-logo="https://i.imgur.com/i859wPs.png" ,LA LIGA TV
+#EXTINF:-1 iso-id="ES" tvg-logo="https://i.imgur.com/i859wPs.png" group-title="ESPANA -  FUTBOL",LA LIGA TV
 XmoUNb2=|CVqs`$VPs`+Z*p{Hb1q|VZ7*YCZeeU?b1!URY-wj<E^ugYAaG%Fb7fU>Y&|j
 
 #EXTINF:-1 iso-id="ING" tvg-logo="https://i.imgur.com/qSY4IKG.jpeg" ,HBO
@@ -18,7 +18,7 @@ https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyDynamics.us" status="online",Comedy Dynamics (1080p)
 https://comedydynamics-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MyTimemovienetworkSpain.us" status="online" group-title="ESPAÑA -  CINE" ,MyTime movie network Spain (1080p)
+#EXTINF:-1 tvg-id="MyTimemovienetworkSpain.us" status="online" group-title="ESPANA -  CINE",MyTime movie network Spain (1080p)
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/63s1k43.png" group-title="ESPAÑA - CINE", Portal FoxMix | HD
@@ -47,3 +47,39 @@ http://tvdevv.club:8080/play/-svkokpsUOHQ_7WRZHZUransJsyTL6z5FmLn0AxyPbPGq0neWFr
 
 #EXTINF:-1 xui-id="48398" tvg-id="CEROHD" tvg-name="|ES| MOVISTAR 0# FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/88bf12850d39831cdf64199d615ffe52.png" group-title="ESPANA -  CINE",|ES| MOVISTAR 0# FHD
 http://tvdevv.club:8080/play/-svkokpsUOHQ_7WRZHZUrQY-5Z4H1lq4FXzABfB04XRV6RVeVY0FukI3HJqnoZg_
+
+#EXTINF:-1 xui-id="48400" tvg-id="MESTHD" tvg-name="|ES| MOVISTAR ESTRENOS FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/1455d278e2d60d507074e65cee44e58e.png" group-title="ESPANA -  CINE",|ES| MOVISTAR ESTRENOS FHD
+http://tvdevv.club:8080/play/-svkokpsUOHQ_7WRZHZUrQY-5Z4H1lq4FXzABfB04XSO06K5_yKq0mOFMUrY4SYk
+
+#EXTINF:-1 xui-id="102334" tvg-id="" tvg-name="|ES| MOVISTAR ESTRENOS 2 FHD" tvg-logo="" group-title="ESPANA -  CINE",|ES| MOVISTAR ESTRENOS 2 FHD
+http://tvdevv.club:8080/play/-svkokpsUOHQ_7WRZHZUrbeSot3-9ULDTgg9m832p7uyHvN8Bne_U8UWfhlnlMO_
+
+#EXTINF:-1 xui-id="48405" tvg-id="MDRAM" tvg-name="|ES| MOVISTAR DRAMA" tvg-logo="http://protocol.solanaflix.com:8080/images/12311ddb62355dff2654656fc1815614.png" group-title="ESPANA -  CINE",|ES| MOVISTAR DRAMA
+http://tvdevv.club:8080/play/-svkokpsUOHQ_7WRZHZUrQY-5Z4H1lq4FXzABfB04XTUH8phWabg2R3WHGsIo0My
+
+#EXTINF:-1 xui-id="48407" tvg-id="MCINNHD" tvg-name="|ES| MOVISTAR CINE Ñ" tvg-logo="http://protocol.solanaflix.com:8080/images/a107aa2c3a55817e0ac524f4077f7806.png" group-title="ESPANA -  CINE",|ES| MOVISTAR CINE Ñ
+http://tvdevv.club:8080/play/-svkokpsUOHQ_7WRZHZUrQY-5Z4H1lq4FXzABfB04XRL1jQ49SssK-sWa34ZdhVQ
+
+#EXTINF:-1 xui-id="48428" tvg-id="MSER" tvg-name="|ES| MOVISTAR SERIES FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/8f56109b1e5ddcac71837c62f6e5515e.png" group-title="ESPANA -  CINE",|ES| MOVISTAR SERIES FHD
+http://tvdevv.club:8080/play/-svkokpsUOHQ_7WRZHZUrQY-5Z4H1lq4FXzABfB04XQZdeBifJDw551YStYfQTmQ
+
+#EXTINF:-1 xui-id="48414" tvg-id="SUNDEU" tvg-name="|ES| SUNDANCE" tvg-logo="" group-title="ESPANA -  CINE",|ES| SUNDANCE
+http://tvdevv.club:8080/play/-svkokpsUOHQ_7WRZHZUrQY-5Z4H1lq4FXzABfB04XQav93TMgNEiRIbIBqWOAsL
+
+#EXTINF:-1 xui-id="48432" tvg-id="CALLE13" tvg-name="|ES| CALLE 13 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/bec671b8f24c482c48416977a354c36a.png" group-title="ESPANA -  CINE",|ES| CALLE 13 FHD
+http://tvdevv.club:8080/play/-svkokpsUOHQ_7WRZHZUrQY-5Z4H1lq4FXzABfB04XTWuzoU-i2iBMzEW1OlszSh
+
+#EXTINF:-1 xui-id="48433" tvg-id="FOXESP" tvg-name="|ES| FOX" tvg-logo="http://protocol.solanaflix.com:8080/images/1fe310e6e32823d6c18d1ace507779a8.png" group-title="ESPANA -  CINE",|ES| FOX
+http://tvdevv.club:8080/play/-svkokpsUOHQ_7WRZHZUrQY-5Z4H1lq4FXzABfB04XRwlJo78-wGRXkwdAOP7QiP
+
+#EXTINF:-1 xui-id="48438" tvg-id="AXNHDSP" tvg-name="|ES| AXN FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/85fcdbfcd7e35d29c2c8efff3ea9df7e.png" group-title="ESPANA -  CINE",|ES| AXN FHD
+http://tvdevv.club:8080/play/-svkokpsUOHQ_7WRZHZUrQY-5Z4H1lq4FXzABfB04XSPWvS_TNfBrUzc4zRHD6jx
+
+#EXTINF:-1 xui-id="48477" tvg-id="NICKLMC" tvg-name="|ES| NICKELODEON FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/429952d925933658248eed71c47ed1bf.png" group-title="ESPANA -  CINE",|ES| NICKELODEON FHD
+http://tvdevv.club:8080/play/-svkokpsUOHQ_7WRZHZUrQY-5Z4H1lq4FXzABfB04XR559VPwv6vrqwRpT23Nmq-
+
+#EXTINF:-1 xui-id="48461" tvg-id="COCINHD" tvg-name="|ES| CANAL COCINA" tvg-logo="http://protocol.solanaflix.com:8080/images/382879a07b1b6aca3b35d29128c90584.png" group-title="ESPANA - ESTILO DE VIDA",|ES| CANAL COCINA
+http://tvdevv.club:8080/play/-svkokpsUOHQ_7WRZHZUrQY-5Z4H1lq4FXzABfB04XSDmbED6Y6Ub8gyUfKm7nem
+
+#EXTINF:-1 xui-id="48483" tvg-id="NATGSHD" tvg-name="|ES| NATIONAL GEOGRAPHIC" tvg-logo="http://protocol.solanaflix.com:8080/images/a94b5b322eaf66d0fc5018d10280ec57.png" group-title="ESPANA -  CULTURA",|ES| NATIONAL GEOGRAPHIC
+http://tvdevv.club:8080/play/-svkokpsUOHQ_7WRZHZUrQY-5Z4H1lq4FXzABfB04XSeS0NwRs2774z5NG3qkXDb
