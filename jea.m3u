@@ -18,14 +18,32 @@ https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyDynamics.us" status="online",Comedy Dynamics (1080p)
 https://comedydynamics-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MyTimemovienetworkSpain.us" status="online",MyTime movie network Spain (1080p)
+#EXTINF:-1 tvg-id="MyTimemovienetworkSpain.us" status="online" group-title="ESPAÑA -  CINE" ,MyTime movie network Spain (1080p)
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/63s1k43.png" group-title="Lo Mas Visto", Portal FoxMix | HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/63s1k43.png" group-title="ESPAÑA - CINE", Portal FoxMix | HD
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8e2460502f204b225c89d644e88153a8.webp" group-title="Lo Mas Visto", Anime TV | SD
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8e2460502f204b225c89d644e88153a8.webp" group-title="ESPANA -  CINE" , Anime TV | SD
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 #EXTINF:-1 xui-id="56222" tvg-id="MOLIGA" tvg-name="|ES| MOVISTAR LA LIGA FHD" tvg-logo="http://marcaporhombro.com/wp-content/uploads/2016/12/movistar-2010-620x362.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA FHD
 http://tvdevv.club:8080/play/-svkokpsUOHQ_7WRZHZUrUWqVKnc58LBm_pI8UupUDo7zVjW8qlFzxAsbvYSs0y8
+
+#EXTINF:-1 xui-id="48514" tvg-id="LIGCAHD" tvg-name="|ES| MOVISTAR LIGA CAMPEONES FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nQvnIRfTRGbKgkik5Zoi9Z6JphsRnETVoxLh0MwhY8lig.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LIGA CAMPEONES FHD
+http://tvdevv.club:8080/play/-svkokpsUOHQ_7WRZHZUrQY-5Z4H1lq4FXzABfB04XS0QEPGzrvL4J6NhmXoDudv
+
+#EXTINF:-1 xui-id="48542" tvg-id="BARCATV" tvg-name="|ES| BARCA TV" tvg-logo="http://protocol.solanaflix.com:8080/images/6020c4a2f7ffd1e8ab1f45216070dcee.png" group-title="ESPANA -  FUTBOL",|ES| BARCA TV
+http://tvdevv.club:8080/play/-svkokpsUOHQ_7WRZHZUrQY-5Z4H1lq4FXzABfB04XQ3aHJQSiJq1oOWQX0jtvy1
+
+#EXTINF:-1 xui-id="48543" tvg-id="RMADH" tvg-name="|ES| REAL MADRID TV" tvg-logo="http://protocol.solanaflix.com:8080/images/fb776e65d3427fd98d1cfd08576d0f1e.png" group-title="ESPANA -  FUTBOL",|ES| REAL MADRID TV
+http://tvdevv.club:8080/play/-svkokpsUOHQ_7WRZHZUrQY-5Z4H1lq4FXzABfB04XQjW82ZxNL5THpUvuHxmrAT
+
+#EXTINF:-1 xui-id="48539" tvg-id="MFOR1HD" tvg-name="|ES| MOVISTAR F1 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/581fb6c82289bbb18ce4500a7454cbaa.png" group-title="ESPANA - DEPORTES",|ES| MOVISTAR F1 FHD
+http://tvdevv.club:8080/play/-svkokpsUOHQ_7WRZHZUrQY-5Z4H1lq4FXzABfB04XRPLCpUefeD8pMpGpYJpiOs
+
+#EXTINF:-1 xui-id="64410" tvg-id="DSNPL" tvg-name="|ES| DreamWorks FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/5ed7fed512a482bd3a8d048699453af7.png" group-title="ESPANA -  CINE",|ES| DreamWorks FHD
+http://tvdevv.club:8080/play/-svkokpsUOHQ_7WRZHZUransJsyTL6z5FmLn0AxyPbPGq0neWFr-SbxOZ9k8UNiB
+
+#EXTINF:-1 xui-id="48398" tvg-id="CEROHD" tvg-name="|ES| MOVISTAR 0# FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/88bf12850d39831cdf64199d615ffe52.png" group-title="ESPANA -  CINE",|ES| MOVISTAR 0# FHD
+http://tvdevv.club:8080/play/-svkokpsUOHQ_7WRZHZUrQY-5Z4H1lq4FXzABfB04XRV6RVeVY0FukI3HJqnoZg_
